@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	**background**: url("unit_3/images/digital2.jpg");
+	background-color: #000000;
 	background-size: cover;
 	color: #fff;
 	font-family: sans-serif;
