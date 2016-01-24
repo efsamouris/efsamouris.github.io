@@ -1,7 +1,9 @@
+h1 {
+	text-align: center;
+}
 body {
 	text-align: center;
-	background: url(file:///Users/efsamouris/Desktop/efsamouris.github.io/unit_3/images/project.jpg");
-	background-color: #000000;
+	background: url(file:///Users/efsamouris/Desktop/efsamouris.github.io/unit_3/images/project.jpg);
 	background-size: cover;
 	color: #fff;
 	font-family: sans-serif;
@@ -9,14 +11,6 @@ body {
 hr {
 	width: 200px;
 }
-p {
-	font-size: 16px;
-	font-style: italic;
-}
-h1 {
-	font-size: 20px;
-}
-ul {
-	text-align: left;
-	list-style-type: none;
+p1,p3 {
+	font-size: 14px;
 }
