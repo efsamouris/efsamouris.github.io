@@ -3,9 +3,9 @@ h1 {
 }
 body {
 	text-align: center;
-	background: url(file:///Users/efsamouris/Desktop/efsamouris.github.io/unit_3/images/project.jpg);
+	background: url(../images/project1.jpg);
 	background-size: cover;
-	color: #fff;
+	color: #000000;
 	font-family: sans-serif;
 }
 hr {
