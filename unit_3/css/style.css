@@ -11,6 +11,12 @@ body {
 	color: #000000;
 	font-family: Helvetica;
 }
+#cover {
+	width: 1000px;
+	height:500px;
+	display: block;
+	margin: 0 auto;
+}
 hr {
 	width: 425px;
 }
