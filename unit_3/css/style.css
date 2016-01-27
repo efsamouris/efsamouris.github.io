@@ -8,6 +8,8 @@ body {
 	text-align: center;
 	background: url(../images/unit3digital.jpg);
 	background-size: cover;
+	background-position: 0% 0%
+	padding-top: 25px;
 	color: #000000;
 	font-family: Helvetica;
 }
@@ -31,4 +33,7 @@ p3 {
 a {
 	font-style: italic;
 	color: #000000;
+}
+ul {
+	list-style-type: none
 }
