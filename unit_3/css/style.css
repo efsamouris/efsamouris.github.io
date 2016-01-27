@@ -7,7 +7,7 @@ h3 {
 	-webkit-margin-after:1em;
 	-webkit-margin-start:0px;
 	-webkit-margin-end:0px;
-	color: #542E2E;
+	color: #2C7070;
 	
 }
 body {
@@ -49,4 +49,7 @@ ul, menu, dir {
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
 	-webkit-padding-start:30px;
+}
+ul {
+	width: 300px;
 }
