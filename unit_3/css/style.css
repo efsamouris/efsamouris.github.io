@@ -1,7 +1,9 @@
-h3 {
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+
+h1 {
 	text-align: center;
 	font-weight: bold;
-	font-size: 625%;
+	font-size: 18px;
 	display: block;
 	-webkit-margin-before: 1em;
 	-webkit-margin-after:1em;
@@ -12,14 +14,16 @@ h3 {
 }
 body {
 	display: block;
-	margin: 8px;
+	margin: 2em;
 	text-align: center;
 	background: url(../images/unit3digital.jpg);
 	background-size: cover;
-	background-position: 0% 0%
+	background-position: 0%
 	padding-top: 25px;
 	color: #000000;
 	font-family: Helvetica;
+	line-height: 2em;
+	position: relative;
 }
 #cover {
 	width: 1000px;
@@ -30,18 +34,23 @@ body {
 hr {
 	width: 425px;
 }
-p1 {
+
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400italic,400);
+p {
 	font-size: 22px;
+	font-family: 'Ubuntu', sans-serif;
 }
 
-p3 {
-	font-size: 16px;
+images {
+	vertical-align: middle;
 }
 
 a {
 	font-style: italic;
 	color: #000000;
 }
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
 ul, menu, dir {
 	list-style-type: none;
 	-webkit-margin-before: 1em;
@@ -49,6 +58,8 @@ ul, menu, dir {
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
 	-webkit-padding-start:30px;
+	font-family:'PT Sans', sans-serif;
+	font-size: 14px;
 }
 hr {
 	width: 300px;
