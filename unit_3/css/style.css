@@ -25,12 +25,7 @@ body {
 	line-height: 2em;
 	position: relative;
 }
-#cover {
-	width: 1000px;
-	height:500px;
-	display: block;
-	margin: 0 auto;
-}
+
 hr {
 	width: 425px;
 }
