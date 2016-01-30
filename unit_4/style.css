@@ -1,17 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans);
 
 body {
-	display: block;
-	margin: 0;
 	text-align: center;
 	background: url(../images/unit3digital.jpg);
 	background-size: cover;
 	background-position: 0%
 	padding-top: 25px;
 	color: #000000;
-	line-height: 1.5sem;
-	position: relative;
 	font-size: 48px;
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
 }
 
 hr {
