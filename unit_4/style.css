@@ -1,18 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans);
 
-h4 {
-	text-align: center;
-	font-weight: bold;
-	font-size: 48px;
-	display: block;
-	-webkit-margin-before: 1em;
-	-webkit-margin-after:1em;
-	-webkit-margin-start:0px;
-	-webkit-margin-end:0px;
-	color: #2C7070;
-	font-family:'Comfortaa', cursive;
-	
-}
 body {
 	display: block;
 	margin: 0;
