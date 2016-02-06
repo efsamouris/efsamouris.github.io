@@ -13,17 +13,13 @@ body {
 	background-size: cover;
 	color: #000000;
 	font-size: 25px;
-    line-height: 200px;
     top: 50%;
     width: 100%;
     font-family:'Righteous';
 }
-hr {
-	width: 425px;
-}
 
 p4 {
-	font-size: 35px;
+	font-size: 30px;
 	font-family:'Comfortaa', sans-serif;
 	color: #FFFFFF;
 
