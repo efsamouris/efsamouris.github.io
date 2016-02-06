@@ -16,7 +16,7 @@ body {
     top: 50%;
     width: 100%;
     font-family:'Righteous';
-    line-height: 300%;
+    line-height: 500%;
 }
 
 h4 {
@@ -42,5 +42,5 @@ a {
 ul {
 	font-size: 18px;
 	list-style-type: none;
-	line-height: 500%;
+	line-height: 350%;
 }
