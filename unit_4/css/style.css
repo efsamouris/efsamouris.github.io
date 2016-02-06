@@ -2,20 +2,16 @@
 
 h2 {
 	font-size: 28px;
+	color: #2C7070;
 }
 
 body {
 	text-align: center;
 	background: url(../images/unit3digital.jpg);
 	background-size: cover;
-	background-position: 0%
 	color: #000000;
 	font-size: 30px;
-    left: 0;
     line-height: 200px;
-    margin: auto;
-    margin-top: -100px;
-    position: absolute;
     top: 50%;
     width: 100%;
 }
@@ -24,7 +20,7 @@ hr {
 }
 
 p {
-	font-size: 22px;
+	font-size: 18px;
 	font-family: 'Ubuntu', sans-serif;
 	margin-bottom: 2em;
 	padding: 20px 40px;
