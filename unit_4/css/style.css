@@ -41,13 +41,8 @@ a {
 	margin-bottom: 2em;
 }
 
-ul, menu, dir {
+ul, menu {
 	list-style-type: none;
-	-webkit-margin-before: 1em;
-	-webkit-margin-after: 1em;
-	-webkit-margin-start: 0px;
-	-webkit-margin-end: 0px;
-	-webkit-padding-start:30px;
 	font-family:'PT Sans', sans-serif;
-	font-size: 14px;
+	font-size: 12px;
 }
