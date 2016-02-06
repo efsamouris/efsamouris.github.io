@@ -1,11 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans);
 
+h1 {
+	font-size: 36px;
+}
+
 body {
 	text-align: center;
 	background: url(../images/unit3digital.jpg);
 	background-size: cover;
 	background-position: 0%
-	padding-top: 25px;
 	color: #000000;
 	font-size: 48px;
     left: 0;
@@ -16,12 +19,11 @@ body {
     top: 50%;
     width: 100%;
 }
-
 hr {
 	width: 425px;
 }
 
-p4 {
+p {
 	font-size: 22px;
 	font-family: 'Ubuntu', sans-serif;
 	margin-bottom: 2em;
@@ -31,7 +33,6 @@ p4 {
 images {
 	vertical-align: middle;
 }
-
 a {
 	font-style: normal;
 	color: #000000;
@@ -49,7 +50,4 @@ ul, menu, dir {
 	-webkit-padding-start:30px;
 	font-family:'PT Sans', sans-serif;
 	font-size: 14px;
-}
-hr {
-	width: 300px;
 }
