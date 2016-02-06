@@ -13,13 +13,14 @@ body {
 	background-size: cover;
 	color: #000000;
 	font-size: 25px;
+    line-height: 50px;
     top: 50%;
     width: 100%;
     font-family:'Righteous';
 }
 
 p4 {
-	font-size: 30px;
+	font-size: 35px;
 	font-family:'Comfortaa', sans-serif;
 	color: #FFFFFF;
 
@@ -35,5 +36,5 @@ a {
 }
 
 ul {
-	font-size: 14px;
+	font-size: 18px;
 }
