@@ -3,6 +3,7 @@
 h2 {
 	font-size: 34px;
 	color: #2C7070;
+	font-family: 'Poiret One';
 }
 
 body {
@@ -10,7 +11,7 @@ body {
 	background: url(../images/unit3digital.jpg);
 	background-size: cover;
 	color: #000000;
-	font-size: 18px;
+	font-size: 25px;
     line-height: 200px;
     top: 50%;
     width: 100%;
@@ -40,7 +41,6 @@ a {
 }
 
 ul {
-	list-style-type: none;
 	font-family:'PT Sans', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 }
