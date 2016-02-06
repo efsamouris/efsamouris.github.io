@@ -13,7 +13,6 @@ body {
 	background-size: cover;
 	color: #000000;
 	font-size: 25px;
-    line-height: 200px;
     top: 50%;
     width: 100%;
     font-family:'Righteous';
@@ -29,7 +28,7 @@ p4 {
 images {
 	vertical-align: middle;
 }
-a {
+p {
 	font-style: normal;
 	color: #000000;
 	font-family: 'PT Sans', sans-serif;
@@ -38,4 +37,5 @@ a {
 ul {
 	font-size: 18px;
 	list-style-type: none;
+	line-height: 100px;
 }
