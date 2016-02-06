@@ -5,6 +5,8 @@ h2 {
 	color: #2C7070;
 	font-family: 'Poiret One';
 	font-weight: 600;
+	line-height: 100%;
+
 }
 
 body {
@@ -33,6 +35,7 @@ p {
 	font-style: normal;
 	color: #000000;
 	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
 }
 a {
 	color: #000000;
