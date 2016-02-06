@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
 h2 {
-	font-size: 70px;
+	font-size: 100px;
 	color: #2C7070;
 	font-family: 'Poiret One';
 	font-weight: 600;
@@ -16,7 +16,7 @@ body {
     line-height: 200px;
     top: 50%;
     width: 100%;
-    font-family:'Righteous', cursive;
+    font-family:'Righteous';
 }
 hr {
 	width: 425px;
