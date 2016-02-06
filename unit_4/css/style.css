@@ -22,13 +22,6 @@ hr {
 	width: 425px;
 }
 
-p {
-	font-size: 12px;
-	font-family: 'Ubuntu', sans-serif;
-	font: 'Ubuntu', sans-serif;
-	margin-bottom: 2em;
-	padding: 20px 40px;
-}
 p4 {
 	font-size: 35px;
 	font-family:'Comfortaa', sans-serif;
@@ -43,7 +36,6 @@ a {
 	font-style: normal;
 	color: #000000;
 	font-family: 'PT Sans', sans-serif;
-	margin-bottom: 2em;
 }
 
 ul {
