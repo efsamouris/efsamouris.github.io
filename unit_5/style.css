@@ -45,17 +45,11 @@ a {
 	line-height: 250%;
 }
 
-ul {
-	font-size: 18px;
-	list-style-type: none;
-	line-height: 350%;
-	font: bold;
-}
-
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
+	font-size: 16px;
 }
 nav {
 	background-color: #E8C66A;
@@ -76,12 +70,19 @@ footer {
 	background-color: #FF957E;
 	border: 1px black solid
 	padding: 20px;
+	font-size: 14px;
 }
 div / section / ul {
 	background-color: #FFE2B8;
 	border: 1px black solid
 	padding: 20px;
+	font-size: 18px;
+	list-style-type: none;
+	line-height: 350%;
+	font: bold;
 }
+
+
 
 
 
