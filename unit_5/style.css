@@ -72,16 +72,21 @@ footer {
 	padding: 20px;
 	font-size: 14px;
 }
-div / section / ul {
+div / section {
 	background-color: #FFE2B8;
 	border: 1px black solid
 	padding: 20px;
 	font-size: 18px;
+}
+
+ul {
 	list-style-type: none;
 	line-height: 350%;
 	font: bold;
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
 }
-
 
 
 
