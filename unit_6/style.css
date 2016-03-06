@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+h2 {
+	font-size: 100px;
+	color: #2C7070;
+	font-family: 'Poiret One';
+	font-weight: 600;
+	line-height: 350%;
+	border-bottom-color: #fffebb;
+
+}
+
+body {
+	text-align: center;
+	background: url(../images/unit3digital.jpg);
+	background-size: cover;
+	color: #000000;
+	font-size: 25px;
+    top: 50%;
+    width: 100%;
+    font-family:'Comfortaa', sans-serif;
+    line-height: 400%;
+}
+
+h4 {
+	font-size: 35px;
+	font-family:'Comfortaa', sans-serif;
+	color: 2C7070;
+	border-bottom: 4px solid black;
+	font font-weight: 800;
+
+}
+
+images {
+	vertical-align: middle;
+}
+p {
+	font-style: normal;
+	color: #000000;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+	line-height: 250%;
+}
+a {
+	color: #000000;
+	font-family: 'PT Sans', sans-serif;
+	line-height: 250%;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+	font-size: 16px;
+	color: #000000;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid
+	padding: 20px;
+	font-size: 14px;
+}
+div / section {
+	background-color: #FFE2B8;
+	border: 1px black solid
+	padding: 20px;
+	font-size: 16px;
+	display: inline-block;
+}
+
+li {
+	float: left;
+	width: 50%;
+	height: 6em;
+	outline: 3px solid #222;
+	text-align: center;
+	list-style-type: none;
+	line-height: 350%;
+	font: bold;
+	color: #000;
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav a {
+	text-decoration: 0;
+	color: black;
+	margin: 1.8em;
+	display: inline-block;
+}
+
+#hero {
+	display: block;
+	width: 100%
+	margin: 0;
+	background: #fffebb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
