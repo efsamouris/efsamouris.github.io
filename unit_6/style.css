@@ -70,6 +70,8 @@ footer {
 	border: 1px black solid
 	padding: 20px;
 	font-size: 14px;
+	text-align: center;
+	clear: both;
 }
 div / section {
 	background-color: #FFE2B8;
@@ -105,6 +107,11 @@ nav a {
 	color: black;
 	margin: 1.8em;
 	display: inline-block;
+}
+
+nav {
+	font-size: 1.8em;
+	float: right;
 }
 
 #two_column {
