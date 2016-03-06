@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
-h2 {
+h1 {
 	font-size: 100px;
 	color: #2C7070;
 	font-family: 'Poiret One';
@@ -22,7 +22,7 @@ body {
     line-height: 400%;
 }
 
-h4 {
+h3 {
 	font-size: 35px;
 	font-family:'Comfortaa', sans-serif;
 	color: 2C7070;
